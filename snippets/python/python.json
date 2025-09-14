@@ -133,7 +133,7 @@
         "body": [
             "class ${1:ClassName}($2):",
             "\t\"\"\"",
-            "${3:docstring for $1.}",
+            "\t${3:docstring for $1.}",
             "\t\"\"\"",
             "\tdef __init__(self, ${4:arg}):",
             "\t\t${5:super($1, self).__init__()}",
