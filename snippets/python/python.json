@@ -210,7 +210,7 @@
         "description": "try/except/finally blocks"
     },
     "try/except/else/finally": {
-        "prefix": "tryef",
+        "prefix": "tryaf",
         "body": [
             "try:",
             "\t${1:pass}",
