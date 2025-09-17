@@ -11,7 +11,7 @@
     },
     "Multiline string": {
         "prefix": "#",
-        "body": ["\"\"\"$0", "\"\"\""],
+        "body": ["\"\"\"", "$0", "\"\"\""],
         "description": "Snippet to avoid autopair plugin annoyances when typing multiple \""
     },
     "One-line multiline string": {
